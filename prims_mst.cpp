@@ -72,5 +72,5 @@ int main(){
     
     cout << prims(n) << endl;
     
-	return 0;
+    return 0;
 }
