@@ -1,4 +1,5 @@
-/*	This is tha solution to LightOJ 1110-An easy LCS
+/*	
+	This is tha solution to LightOJ 1110-An easy LCS
 	it prints the lexicographically smallest LCS
 	it can also print all the LCS in lexicographically order , just remove the condition on line 71 ans do some adjustments.
 */
