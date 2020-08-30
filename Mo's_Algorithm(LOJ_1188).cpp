@@ -2,6 +2,7 @@
  *		     @ monjurul0007
  */
 
+//problem link : http://www.lightoj.com/volume_showproblem.php?problem=1188
 
 #include <bits/stdc++.h>
 
